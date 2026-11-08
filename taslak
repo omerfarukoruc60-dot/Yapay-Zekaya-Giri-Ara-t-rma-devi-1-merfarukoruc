@@ -1,0 +1,29 @@
+taslak
+öncelikle olarak bir konuya açıklık getirelim yapay zeka makine öğrenmesi ve derin öğrenme aynı kavramlar DEĞİLDİR
+matruşkalar ile açıklayalayım en büyük matruşa bebek yapay zeka,orta boylu matruşka bebek makine öğrenmesi,en küçük matruşka bebek ise derin öğrenmedir Peki o kadar bahsettik bu yapay zekadan ne demek bu yapay zeka tam olarak?
+aslında yapay zeka bir hedeftir ve bu hedef asalşında makinelerin tam anlamıyla insanlar gibi düşünebilmesi,anlayabilmesi,plan yapabilmesidir
+ve hatırlatmakta fayda var yapay zeka sadece bir yazılımın adı bir program değil geniş bir alanın adıdır.Yani yapay zekaya sadece chatgpt,claude gibi yapay zekalardan ibaret değildir.onlar da yapay zekadır elbet ama sadece onlara yapay zeka denemez.
+yapay zekaya karşı iki temel yaklaşım vardır:ilki kural abanlı yaklaşım ikincisi ise öğrenmeye dayalı yaklaşım.birazdan bahsedeceğim makine öğrenmesi ve derin öğrenme öğrenmeye dayalı yaklaşım kapsamında.ilk olarak kural tabanlı yaklaşımdan biraz söz edeyim ne demek bu kural tabanlı yaklaşım?
+kural tabnlı yaklaşım da kuralları ve koşulları insan elleriyle yazar
+yazılan kodun temeli if else(eğer ve değilse) komuduna dayanır
+mesela şöyle bir kural tabanlı yapay zeka kodlanabilir yapay zeka o günki hava durumuna bakar ve  dışarı çıkacak kullanıcıya ona göre tavsiyeler verir
+bu tavsiyelere örnek verecek olursak hava 8 derece ve yağmurluysa yapay zekamız kullanıcıya kalın kıyafetler giymesini,yanına şemsiye almasını önerebilir yani kısaca kural tabanlı yapay zeka sadece bizim yazdığımız kurallara göre bazı çıkarımlar yapar
+şimdi gelelim asıl konumuza öğrenmeye dayalı yapay zekalara
+(bir parantez açayım şu konuda aslında benim burda kastettiğim öğrenmeye dayal yapay zeka tanımı benim biraz daha basitleştirdiğim bir tanım bilimsel tanım aslında makine öğrenmesi)
+Öğrenmeye dayalı yapay zekâ, kendisine verilen verilerden ve örneklerden bir örüntü çıkaran yapay zekâ yaklaşımıdır. Eğer yapay zekâ hakkında detaylı bilgisi olmayan biri varsa “örüntü ne demek?” diye sorabilir. Örüntü, verilerde tekrar eden ilişki veya düzendir. Kısaca şöyle özetlenebilir:
+
+Girdi (örnekler, yani veri) + Doğru cevaplar (etiketler) → Kurallar (model)
+
+Model, yapay zekânın bu örneklerden edindiği “tecrübe” olarak da düşünülebilir.
+
+Makine öğrenmesi, öğrenmeye dayalı yapay zekânın alt başlığı gibi görünse de aralarında büyük bir fark yoktur. Öğrenmeye dayalı yapay zekâ bir fikir ve yaklaşımdır, makine öğrenmesi ise bu fikri gerçekleştiren yöntemler ve algoritmalar bütünüdür.şimdi gelelim en küçük matruşka bebeğine derin öğrenmeye 
+Derin öğrenme, makine öğrenmesinin yapay sinir ağları kullanan türüdür. Yapay sinir ağı, birbirine bağlı küçük hesaplama birimlerinin katmanlar hâlinde dizilmesiyle oluşur. Veri girişten girer, katmanlardan geçe geçe işlenir, sonda bir tahmin çıkar. “Derin” kelimesi, bu katmanların çok sayıda olmasından gelir.
+
+derin öğrenmeyi klasik makine öğrenmesinden ayıran en büyü fark ise klasik makine öğrenmesinde hangi özelliklere bakılacağını çoğunlukla insan seçer (ev fiyatında metrekare, oda sayısı gibi). Derin öğrenmede ham veri doğrudan verilir ve ağ önemli özellikleri katman katman kendisi bulur. Fotoğraftaki yüzü tanıyan bir ağda ilk katmanlar çizgi ve kenarları, sonrakiler göz ve burnu, son katmanlar yüzün bütününü yakalar.
+
+tabi böyle güzel bir teknolojiin bize bedelleri de var:
+
+Çok büyük miktarda veri ister.
+Güçlü donanım (GPU) ve uzun eğitim süresi ister.
+Neden o kararı verdiğini açıklamak zordur (“kara kutu” bu durumu açıklayan biimsel bir tanım)
+ve evet geldik kapanışa bu ödev de okuyucuya olabildiğince basit bir şekilde yapay zekanın ne olduğunu  temel hedeflerini temel hedeflerin içinde bulunan makine öğrenmesini ve derin öğrenmeyi açıkladım okudğunuz için teşekkür ederim
